@@ -7,6 +7,7 @@
 |_|  |_|\____/|_|  |_/_/    \_\_| \_| |______|______|_____/_____/ 
         
 ESP8266 Master Con Audio i2s y comunicación esp_now
+Honorino García Junio 2025
 */
 
 
